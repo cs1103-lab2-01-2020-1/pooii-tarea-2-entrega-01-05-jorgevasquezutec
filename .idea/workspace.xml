@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="tarea3" targetName="tarea3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eeb94cf3-85c1-40f9-b026-fb2161286349" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pooii-tarea-2-entrega-01-05-jorgevasquezutec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/Bicicleta.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/Bicicleta.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/Camnion.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/Camnion.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/Orden.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/Orden.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/Producto.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/Producto.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/User.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/User.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/Vehiculo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/Vehiculo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tipos.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bJcpVLASoFlldPZd2RC1kFBysC" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="tarea3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tarea3" TARGET_NAME="tarea3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tarea3" RUN_TARGET_NAME="tarea3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eeb94cf3-85c1-40f9-b026-fb2161286349" name="Default Changelist" comment="" />
+      <created>1588353821299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588353821299</updated>
+      <workItem from="1588353827466" duration="14178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/ejercicios.cpp</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/cmake-build-debug/CMakeFiles/tarea3.dir
+D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/cmake-build-debug/CMakeFiles/rebuild_cache.dir

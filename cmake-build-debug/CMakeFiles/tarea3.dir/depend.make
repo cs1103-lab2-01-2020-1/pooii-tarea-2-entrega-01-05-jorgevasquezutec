@@ -33,6 +33,7 @@ CMakeFiles/tarea3.dir/src/clases/Vehiculo.cpp.obj: ../src/tipos.h
 CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj: ../src/clases/Bicicleta.h
 CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj: ../src/clases/Camnion.h
 CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj: ../src/clases/LIFO.h
+CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj: ../src/clases/LIFOSIMPLE.h
 CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj: ../src/clases/Orden.h
 CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj: ../src/clases/Producto.h
 CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj: ../src/clases/User.h
@@ -43,6 +44,8 @@ CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj: ../src/funciones.h
 CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj: ../src/tipos.h
 
 CMakeFiles/tarea3.dir/src/funciones.cpp.obj: ../src/funciones.cpp
+CMakeFiles/tarea3.dir/src/funciones.cpp.obj: ../src/funciones.h
+CMakeFiles/tarea3.dir/src/funciones.cpp.obj: ../src/tipos.h
 
 CMakeFiles/tarea3.dir/src/main.cpp.obj: ../src/ejercicios.h
 CMakeFiles/tarea3.dir/src/main.cpp.obj: ../src/main.cpp

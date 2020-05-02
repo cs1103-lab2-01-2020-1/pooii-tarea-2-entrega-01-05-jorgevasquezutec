@@ -82,9 +82,35 @@ CMakeFiles/tarea3.dir/src/clases/Camnion.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tarea3.dir/src/clases/Camnion.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\clases\Camnion.cpp -o CMakeFiles\tarea3.dir\src\clases\Camnion.cpp.s
 
+CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.obj: CMakeFiles/tarea3.dir/flags.make
+CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.obj: ../src/clases/LIFO.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tarea3.dir\src\clases\LIFO.cpp.obj -c D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\clases\LIFO.cpp
+
+CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\clases\LIFO.cpp > CMakeFiles\tarea3.dir\src\clases\LIFO.cpp.i
+
+CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\clases\LIFO.cpp -o CMakeFiles\tarea3.dir\src\clases\LIFO.cpp.s
+
+CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.obj: CMakeFiles/tarea3.dir/flags.make
+CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.obj: ../src/clases/LIFOSIMPLE.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tarea3.dir\src\clases\LIFOSIMPLE.cpp.obj -c D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\clases\LIFOSIMPLE.cpp
+
+CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\clases\LIFOSIMPLE.cpp > CMakeFiles\tarea3.dir\src\clases\LIFOSIMPLE.cpp.i
+
+CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\clases\LIFOSIMPLE.cpp -o CMakeFiles\tarea3.dir\src\clases\LIFOSIMPLE.cpp.s
+
 CMakeFiles/tarea3.dir/src/clases/Orden.cpp.obj: CMakeFiles/tarea3.dir/flags.make
 CMakeFiles/tarea3.dir/src/clases/Orden.cpp.obj: ../src/clases/Orden.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tarea3.dir/src/clases/Orden.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/tarea3.dir/src/clases/Orden.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tarea3.dir\src\clases\Orden.cpp.obj -c D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\clases\Orden.cpp
 
 CMakeFiles/tarea3.dir/src/clases/Orden.cpp.i: cmake_force
@@ -97,7 +123,7 @@ CMakeFiles/tarea3.dir/src/clases/Orden.cpp.s: cmake_force
 
 CMakeFiles/tarea3.dir/src/clases/Producto.cpp.obj: CMakeFiles/tarea3.dir/flags.make
 CMakeFiles/tarea3.dir/src/clases/Producto.cpp.obj: ../src/clases/Producto.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/tarea3.dir/src/clases/Producto.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/tarea3.dir/src/clases/Producto.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tarea3.dir\src\clases\Producto.cpp.obj -c D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\clases\Producto.cpp
 
 CMakeFiles/tarea3.dir/src/clases/Producto.cpp.i: cmake_force
@@ -110,7 +136,7 @@ CMakeFiles/tarea3.dir/src/clases/Producto.cpp.s: cmake_force
 
 CMakeFiles/tarea3.dir/src/clases/User.cpp.obj: CMakeFiles/tarea3.dir/flags.make
 CMakeFiles/tarea3.dir/src/clases/User.cpp.obj: ../src/clases/User.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/tarea3.dir/src/clases/User.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/tarea3.dir/src/clases/User.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tarea3.dir\src\clases\User.cpp.obj -c D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\clases\User.cpp
 
 CMakeFiles/tarea3.dir/src/clases/User.cpp.i: cmake_force
@@ -123,7 +149,7 @@ CMakeFiles/tarea3.dir/src/clases/User.cpp.s: cmake_force
 
 CMakeFiles/tarea3.dir/src/clases/Vehiculo.cpp.obj: CMakeFiles/tarea3.dir/flags.make
 CMakeFiles/tarea3.dir/src/clases/Vehiculo.cpp.obj: ../src/clases/Vehiculo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/tarea3.dir/src/clases/Vehiculo.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/tarea3.dir/src/clases/Vehiculo.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tarea3.dir\src\clases\Vehiculo.cpp.obj -c D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\clases\Vehiculo.cpp
 
 CMakeFiles/tarea3.dir/src/clases/Vehiculo.cpp.i: cmake_force
@@ -136,7 +162,7 @@ CMakeFiles/tarea3.dir/src/clases/Vehiculo.cpp.s: cmake_force
 
 CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj: CMakeFiles/tarea3.dir/flags.make
 CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj: ../src/ejercicios.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tarea3.dir\src\ejercicios.cpp.obj -c D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\ejercicios.cpp
 
 CMakeFiles/tarea3.dir/src/ejercicios.cpp.i: cmake_force
@@ -149,7 +175,7 @@ CMakeFiles/tarea3.dir/src/ejercicios.cpp.s: cmake_force
 
 CMakeFiles/tarea3.dir/src/funciones.cpp.obj: CMakeFiles/tarea3.dir/flags.make
 CMakeFiles/tarea3.dir/src/funciones.cpp.obj: ../src/funciones.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/tarea3.dir/src/funciones.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/tarea3.dir/src/funciones.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tarea3.dir\src\funciones.cpp.obj -c D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\funciones.cpp
 
 CMakeFiles/tarea3.dir/src/funciones.cpp.i: cmake_force
@@ -162,7 +188,7 @@ CMakeFiles/tarea3.dir/src/funciones.cpp.s: cmake_force
 
 CMakeFiles/tarea3.dir/src/main.cpp.obj: CMakeFiles/tarea3.dir/flags.make
 CMakeFiles/tarea3.dir/src/main.cpp.obj: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/tarea3.dir/src/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/tarea3.dir/src/main.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tarea3.dir\src\main.cpp.obj -c D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\src\main.cpp
 
 CMakeFiles/tarea3.dir/src/main.cpp.i: cmake_force
@@ -177,6 +203,8 @@ CMakeFiles/tarea3.dir/src/main.cpp.s: cmake_force
 tarea3_OBJECTS = \
 "CMakeFiles/tarea3.dir/src/clases/Bicicleta.cpp.obj" \
 "CMakeFiles/tarea3.dir/src/clases/Camnion.cpp.obj" \
+"CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.obj" \
+"CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.obj" \
 "CMakeFiles/tarea3.dir/src/clases/Orden.cpp.obj" \
 "CMakeFiles/tarea3.dir/src/clases/Producto.cpp.obj" \
 "CMakeFiles/tarea3.dir/src/clases/User.cpp.obj" \
@@ -190,6 +218,8 @@ tarea3_EXTERNAL_OBJECTS =
 
 tarea3.exe: CMakeFiles/tarea3.dir/src/clases/Bicicleta.cpp.obj
 tarea3.exe: CMakeFiles/tarea3.dir/src/clases/Camnion.cpp.obj
+tarea3.exe: CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.obj
+tarea3.exe: CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.obj
 tarea3.exe: CMakeFiles/tarea3.dir/src/clases/Orden.cpp.obj
 tarea3.exe: CMakeFiles/tarea3.dir/src/clases/Producto.cpp.obj
 tarea3.exe: CMakeFiles/tarea3.dir/src/clases/User.cpp.obj
@@ -201,7 +231,7 @@ tarea3.exe: CMakeFiles/tarea3.dir/build.make
 tarea3.exe: CMakeFiles/tarea3.dir/linklibs.rsp
 tarea3.exe: CMakeFiles/tarea3.dir/objects1.rsp
 tarea3.exe: CMakeFiles/tarea3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable tarea3.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\UTEC\Ciclo3\PO2\TAREAS\03\pooii-tarea-2-entrega-01-05-jorgevasquezutec\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable tarea3.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\tarea3.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

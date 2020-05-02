@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tarea3.dir/src/clases/Bicicleta.cpp.obj"
   "CMakeFiles/tarea3.dir/src/clases/Camnion.cpp.obj"
+  "CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.obj"
+  "CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.obj"
   "CMakeFiles/tarea3.dir/src/clases/Orden.cpp.obj"
   "CMakeFiles/tarea3.dir/src/clases/Producto.cpp.obj"
   "CMakeFiles/tarea3.dir/src/clases/User.cpp.obj"

@@ -34,6 +34,7 @@ CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj
  D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Bicicleta.h
  D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Camnion.h
  D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/LIFO.h
+ D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/LIFOSIMPLE.h
  D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Orden.h
  D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Producto.h
  D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/User.h
@@ -44,6 +45,8 @@ CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj
  D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/tipos.h
 CMakeFiles/tarea3.dir/src/funciones.cpp.obj
  D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/funciones.cpp
+ D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/funciones.h
+ D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/tipos.h
 CMakeFiles/tarea3.dir/src/main.cpp.obj
  D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/ejercicios.h
  D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/main.cpp

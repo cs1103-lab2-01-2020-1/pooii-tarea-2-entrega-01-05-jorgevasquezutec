@@ -7,12 +7,14 @@
 
 
 
+
+#include <iostream>
+#include <algorithm>
 #include <vector>
 #include <string>
-#include <algorithm>
-#include <iostream>
 #include <ctime>
 #include <sstream>
+#include <list>
 using  namespace std;
 
 

@@ -1,22 +1,21 @@
 //
-// Created by Jorge Luis Vasquez on 1/05/2020.
+// Created by Jorge Luis Vasquez on 2/05/2020.
 //
 
-#ifndef TAREA3_LIFO_H
-#define TAREA3_LIFO_H
+#ifndef TAREA3_LIFOSIMPLE_H
+#define TAREA3_LIFOSIMPLE_H
 
 #include "../tipos.h"
 
-template <typename  T>
-class LIFO {
+class LIFOSIMPLE  {
 private:
-    T * data;
+    int * data;
     int cap;
     int top;
     void addone(){
         if (top + 1 > cap) {
             cap *= 2;
-            int* aux = new T[cap];
+            int* aux = new int[cap];
             for (size_t i = 0; i < getsize(); i++)
                 aux[i] = data[i];
             delete [] data;
@@ -28,7 +27,7 @@ private:
     void deleteone(){
         if (top - 1 <= cap / 2) {
             cap /= 2;
-            int* aux = new T[cap];
+            int* aux = new int[cap];
             for (size_t i = 0; i < getsize() - 1; ++i)
                 aux[i] = data[i];
             delete [] data;
@@ -38,15 +37,15 @@ private:
         --top;
     }
 public:
-    LIFO(int cap=10){
+    LIFOSIMPLE(int cap=10){
         this->cap=cap;
         top=-1;
-        data = new T[cap];
+        data = new int[cap];
     }
-    ~LIFO(){
+    ~LIFOSIMPLE(){
         delete [] data;
     }
-    void push(T valor){
+    void push(int valor){
         addone();
         data[top]=valor;
     }
@@ -75,4 +74,4 @@ public:
 };
 
 
-#endif //TAREA3_LIFO_H
+#endif //TAREA3_LIFOSIMPLE_H

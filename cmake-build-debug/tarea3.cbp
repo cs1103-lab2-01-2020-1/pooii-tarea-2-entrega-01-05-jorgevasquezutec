@@ -99,6 +99,18 @@
 		<Unit filename="D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Camnion.h">
 			<Option target="tarea3"/>
 		</Unit>
+		<Unit filename="D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/LIFO.cpp">
+			<Option target="tarea3"/>
+		</Unit>
+		<Unit filename="D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/LIFO.h">
+			<Option target="tarea3"/>
+		</Unit>
+		<Unit filename="D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/LIFOSIMPLE.cpp">
+			<Option target="tarea3"/>
+		</Unit>
+		<Unit filename="D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/LIFOSIMPLE.h">
+			<Option target="tarea3"/>
+		</Unit>
 		<Unit filename="D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Orden.cpp">
 			<Option target="tarea3"/>
 		</Unit>

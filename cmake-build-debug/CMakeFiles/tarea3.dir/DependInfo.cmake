@@ -6,6 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Bicicleta.cpp" "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/cmake-build-debug/CMakeFiles/tarea3.dir/src/clases/Bicicleta.cpp.obj"
   "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Camnion.cpp" "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/cmake-build-debug/CMakeFiles/tarea3.dir/src/clases/Camnion.cpp.obj"
+  "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/LIFO.cpp" "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/cmake-build-debug/CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.obj"
+  "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/LIFOSIMPLE.cpp" "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/cmake-build-debug/CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.obj"
   "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Orden.cpp" "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/cmake-build-debug/CMakeFiles/tarea3.dir/src/clases/Orden.cpp.obj"
   "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Producto.cpp" "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/cmake-build-debug/CMakeFiles/tarea3.dir/src/clases/Producto.cpp.obj"
   "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/User.cpp" "D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/cmake-build-debug/CMakeFiles/tarea3.dir/src/clases/User.cpp.obj"

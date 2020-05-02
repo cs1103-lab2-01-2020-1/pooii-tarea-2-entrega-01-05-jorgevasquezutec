@@ -32,9 +32,13 @@ public:
         int min=aTime->tm_min;
         int sec=aTime->tm_sec;
         string cod=to_string(year)+to_string(month)+to_string(day)+to_string(hour)+to_string(min)+to_string(sec);
+        delete aTime;
         codigo_orden= std::stoll(cod);
         estado="EN PROCESO";
         this->user = User(user.getDni(),user.getNombre(),user.getAppellido(),user.getUsuario(),user.getPassword());
+    }
+    ~Orden(){
+        delete vechiculo;
     }
     void Enviar (string destino,Vehiculo *vehiculo ){
         if(vehiculo->getEstado()=="OCUPADO"){

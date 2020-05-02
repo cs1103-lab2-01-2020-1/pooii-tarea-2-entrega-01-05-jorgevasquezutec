@@ -2,7 +2,7 @@
 // Created by Jorge Luis Vasquez on 1/05/2020.
 //
 
-#include "funciones.h"
+
 #include "ejercicios.h"
 #include "clases/User.h"
 #include "clases/Producto.h"
@@ -10,6 +10,8 @@
 #include "clases/Bicicleta.h"
 #include "clases/Camnion.h"
 #include "clases/LIFO.h"
+#include "funciones.h"
+#include "clases/LIFOSIMPLE.h"
 
 void ejercicio1(){
 
@@ -31,7 +33,7 @@ void ejercicio1(){
     orden1.Finalizar_Orden();
     delete v1;
 }
-void ejercicio2(){
+void ejercicio4(){
     LIFO<int> lifo1;
     lifo1.push(5);
     lifo1.push(30);
@@ -51,7 +53,50 @@ void ejercicio2(){
 }
 void ejercicio3(){
 
+    int arra[]={2,10,5,35,16};
+    int arra2[]={100,35,4,80,50};
+    int n= sizeof(arra)/sizeof(arra[0]);
+    int n2=sizeof(arra2)/sizeof(arra2[0]);
+    list<int> lista1(arra,arra+n);
+    print_list(lista1);
+    list<int> lista2(arra2,arra2+n);
+    print_list(lista2);
+    list<int> lista3(n+n2);
+    cout<<"Merge"<<endl;
+    merge(lista1.begin(),lista1.end(),lista2.begin(),lista2.end(),lista3.begin());
+    print_list(lista3);
+
+    cout<<"Sort"<<endl;
+    lista3.sort([](int a , int b){return (a<b);});
+    print_list(lista3);
+    auto it =binary_search(lista3.begin(),lista3.end(),4);
+    if(it){
+        cout<<"Encontro el valor"<<endl;
+    } else{cout<<"No enontro"<<endl;}
+
+    list<int>::iterator max_value=max_element(lista3.begin(),lista3.end());
+    list<int>::iterator lower=lower_bound(lista3.begin(),lista3.end(),*max_value);
+    cout << "lower_bound for "<< *max_value <<" is " << *lower<< '\n';
+
+
+
 }
-void ejercicio4(){
+void ejercicio2(){
+
+    LIFOSIMPLE lifo1;
+    lifo1.push(5);
+    lifo1.push(30);
+    lifo1.push(31);
+    lifo1.push(20);
+    lifo1.push(21);
+    lifo1.push(22);
+    lifo1.push(23);
+    lifo1.push(24);
+    lifo1.push(25);
+    lifo1.push(26);
+    lifo1.push(27);
+    lifo1.printLIFO();
+    lifo1.pop();
+    lifo1.printLIFO();
 
 }

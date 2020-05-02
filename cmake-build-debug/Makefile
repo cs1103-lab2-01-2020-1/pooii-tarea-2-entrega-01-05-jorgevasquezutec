@@ -176,6 +176,60 @@ src/clases/Camnion.cpp.s:
 	$(MAKE) -f CMakeFiles\tarea3.dir\build.make CMakeFiles/tarea3.dir/src/clases/Camnion.cpp.s
 .PHONY : src/clases/Camnion.cpp.s
 
+src/clases/LIFO.obj: src/clases/LIFO.cpp.obj
+
+.PHONY : src/clases/LIFO.obj
+
+# target to build an object file
+src/clases/LIFO.cpp.obj:
+	$(MAKE) -f CMakeFiles\tarea3.dir\build.make CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.obj
+.PHONY : src/clases/LIFO.cpp.obj
+
+src/clases/LIFO.i: src/clases/LIFO.cpp.i
+
+.PHONY : src/clases/LIFO.i
+
+# target to preprocess a source file
+src/clases/LIFO.cpp.i:
+	$(MAKE) -f CMakeFiles\tarea3.dir\build.make CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.i
+.PHONY : src/clases/LIFO.cpp.i
+
+src/clases/LIFO.s: src/clases/LIFO.cpp.s
+
+.PHONY : src/clases/LIFO.s
+
+# target to generate assembly for a file
+src/clases/LIFO.cpp.s:
+	$(MAKE) -f CMakeFiles\tarea3.dir\build.make CMakeFiles/tarea3.dir/src/clases/LIFO.cpp.s
+.PHONY : src/clases/LIFO.cpp.s
+
+src/clases/LIFOSIMPLE.obj: src/clases/LIFOSIMPLE.cpp.obj
+
+.PHONY : src/clases/LIFOSIMPLE.obj
+
+# target to build an object file
+src/clases/LIFOSIMPLE.cpp.obj:
+	$(MAKE) -f CMakeFiles\tarea3.dir\build.make CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.obj
+.PHONY : src/clases/LIFOSIMPLE.cpp.obj
+
+src/clases/LIFOSIMPLE.i: src/clases/LIFOSIMPLE.cpp.i
+
+.PHONY : src/clases/LIFOSIMPLE.i
+
+# target to preprocess a source file
+src/clases/LIFOSIMPLE.cpp.i:
+	$(MAKE) -f CMakeFiles\tarea3.dir\build.make CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.i
+.PHONY : src/clases/LIFOSIMPLE.cpp.i
+
+src/clases/LIFOSIMPLE.s: src/clases/LIFOSIMPLE.cpp.s
+
+.PHONY : src/clases/LIFOSIMPLE.s
+
+# target to generate assembly for a file
+src/clases/LIFOSIMPLE.cpp.s:
+	$(MAKE) -f CMakeFiles\tarea3.dir\build.make CMakeFiles/tarea3.dir/src/clases/LIFOSIMPLE.cpp.s
+.PHONY : src/clases/LIFOSIMPLE.cpp.s
+
 src/clases/Orden.obj: src/clases/Orden.cpp.obj
 
 .PHONY : src/clases/Orden.obj
@@ -380,6 +434,12 @@ help:
 	@echo ... src/clases/Camnion.obj
 	@echo ... src/clases/Camnion.i
 	@echo ... src/clases/Camnion.s
+	@echo ... src/clases/LIFO.obj
+	@echo ... src/clases/LIFO.i
+	@echo ... src/clases/LIFO.s
+	@echo ... src/clases/LIFOSIMPLE.obj
+	@echo ... src/clases/LIFOSIMPLE.i
+	@echo ... src/clases/LIFOSIMPLE.s
 	@echo ... src/clases/Orden.obj
 	@echo ... src/clases/Orden.i
 	@echo ... src/clases/Orden.s

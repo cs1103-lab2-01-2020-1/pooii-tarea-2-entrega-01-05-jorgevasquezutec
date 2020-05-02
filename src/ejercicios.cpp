@@ -5,12 +5,11 @@
 #include "funciones.h"
 #include "ejercicios.h"
 #include "clases/User.h"
-#include "clases/User.cpp"
 #include "clases/Producto.h"
 #include "clases/Orden.h"
-#include "clases/Orden.cpp"
 #include "clases/Bicicleta.h"
 #include "clases/Camnion.h"
+#include "clases/LIFO.h"
 
 void ejercicio1(){
 
@@ -33,6 +32,21 @@ void ejercicio1(){
     delete v1;
 }
 void ejercicio2(){
+    LIFO<int> lifo1;
+    lifo1.push(5);
+    lifo1.push(30);
+    lifo1.push(31);
+    lifo1.push(20);
+    lifo1.push(21);
+    lifo1.push(22);
+    lifo1.push(23);
+    lifo1.push(24);
+    lifo1.push(25);
+    lifo1.push(26);
+    lifo1.push(27);
+    lifo1.printLIFO();
+    lifo1.pop();
+    lifo1.printLIFO();
 
 }
 void ejercicio3(){

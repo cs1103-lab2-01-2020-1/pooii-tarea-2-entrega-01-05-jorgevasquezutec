@@ -12,30 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeb94cf3-85c1-40f9-b026-fb2161286349" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pooii-tarea-2-entrega-01-05-jorgevasquezutec.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Bicicleta.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Bicicleta.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Camnion.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Camnion.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Orden.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Orden.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Producto.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Producto.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/User.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/User.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Vehiculo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Vehiculo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicios.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicios.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funciones.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funciones.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tipos.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/LIFO.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/LIFO.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tarea3.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tarea3.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tarea3.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tarea3.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tarea3.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tarea3.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tarea3.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tarea3.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tarea3.dir/src/ejercicios.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/tarea3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tarea3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +48,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../01/pooii-tarea-1-entrega-14-04-jorgevasquezutec" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -93,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588353821299</updated>
-      <workItem from="1588353827466" duration="14178000" />
+      <workItem from="1588353827466" duration="16847000" />
     </task>
     <servers />
   </component>

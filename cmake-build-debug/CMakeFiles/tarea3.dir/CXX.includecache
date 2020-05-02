@@ -18,9 +18,9 @@ D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/ti
 Vehiculo.h
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Vehiculo.h
 
-D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Orden.cpp
-Orden.h
-D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Orden.h
+D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/LIFO.h
+../tipos.h
+D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/tipos.h
 
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Orden.h
 ../tipos.h
@@ -35,10 +35,6 @@ D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/cl
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Producto.h
 ../tipos.h
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/tipos.h
-
-D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/User.cpp
-User.h
-D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/User.h
 
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/User.h
 ../tipos.h
@@ -55,18 +51,16 @@ ejercicios.h
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/ejercicios.h
 clases/User.h
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/User.h
-clases/User.cpp
-D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/User.cpp
 clases/Producto.h
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Producto.h
 clases/Orden.h
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Orden.h
-clases/Orden.cpp
-D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Orden.cpp
 clases/Bicicleta.h
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Bicicleta.h
 clases/Camnion.h
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/Camnion.h
+clases/LIFO.h
+D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/clases/LIFO.h
 
 D:/UTEC/Ciclo3/PO2/TAREAS/03/pooii-tarea-2-entrega-01-05-jorgevasquezutec/src/ejercicios.h
 tipos.h
